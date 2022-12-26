@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="hotels">Hotels</string>
+    <string name="attractions">Attractions</string>
+    <string-array name="attractions">
+        <item>The Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>The Museum of Science and Industry</item>
+        <item>The Art Institute</item>
+        <item>TILT</item>
+    </string-array>
+    <string-array name="hotels">
+        <item>The Congress Plaza Hotel</item>
+        <item>Club Quarters</item>
+        <item>Trump International Hotel</item>
+        <item>LondonHouse</item>
+        <item>Eurostars Magnificent Mile</item>
+    </string-array>
+    <string-array name="hotel_urls">
+        <item>https://www.congressplazahotel.com/</item>
+        <item>https://clubquartershotels.com/</item>
+        <item>https://www.trumphotels.com/</item>
+        <item>https://londonhousechicago.com/</item>
+        <item>https://www.eurostarshotels.co.uk/eurostars-magnificent-mile.html</item>
+    </string-array>
+    <string-array name="attaction_urls">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://360chicago.com/tilt</item>
+    </string-array>
+</resources>

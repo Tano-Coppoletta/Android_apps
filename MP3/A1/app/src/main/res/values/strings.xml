@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="attractions">Attractions</string>
+    <string name="hotels">Hotels</string>
+    <string name="attractions_description">Show the attractions of Chicago</string>
+    <string name="hotel_description">Show the hotels of Chicago</string>
+</resources>
