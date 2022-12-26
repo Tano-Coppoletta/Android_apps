@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MP2</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string-array name="animals">
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Cheetah</item>
+        <item>Zebra</item>
+        <item>Giraffe</item>
+        <item>Chimpanzee</item>
+        <item>Raccoon</item>
+        <item>Jackal</item>
+        <item>Koala</item>
+    </string-array>
+    <string-array name="url_animals">
+        <item>https://en.wikipedia.org/wiki/Lion</item>
+        <item>https://en.wikipedia.org/wiki/Tiger</item>
+        <item>https://en.wikipedia.org/wiki/Cheetah</item>
+        <item>https://en.wikipedia.org/wiki/Zebra</item>
+        <item>https://en.wikipedia.org/wiki/Giraffe</item>
+        <item>https://en.wikipedia.org/wiki/Chimpanzee</item>
+        <item>https://en.wikipedia.org/wiki/Raccoon</item>
+        <item>https://en.wikipedia.org/wiki/Jackal</item>
+        <item>https://en.wikipedia.org/wiki/Koala</item>
+    </string-array>
+</resources>

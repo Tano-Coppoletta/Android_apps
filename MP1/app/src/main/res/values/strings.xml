@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MP1</string>
+    <string name="welcome">Welcome!</string>
+    <string name="welcome_secondary">Click below to insert a number</string>
+    <string name="insert_string">Insert</string>
+    <string name="check_string">Check!</string>
+    <string name="insert_a_phone_number">Insert a phone number</string>
+</resources>
